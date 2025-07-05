@@ -109,7 +109,7 @@ All outputs are saved in the `DeepSeek-R1-Medical-COT/` folder:
 
 #### Training was tracked using Weights & Biases (wandb):
 > ![alt text](image-1.png)
-You can see the track [here](https://wandb.ai/prathameshpawar-iiit-vadodara/Fine-tune-DeepSeek-R1-Distill-Llama-8B%20on%20Medical%20COT%20Dataset/runs/yv177ipr?nw=nwuserprathameshpawar)
+![alt text](image-2.png)
 
 Training completed in ~44 minutes on Kaggle’s free T4 GPU. The training loss showed consistent downward trends.
 
